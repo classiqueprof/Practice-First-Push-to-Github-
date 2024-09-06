@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(242, 242, 242);
+    color: navy;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+h2 {
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    font-size: 2.5rem;
+}
